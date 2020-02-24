@@ -1,6 +1,6 @@
-# Watch Your Talk, Make it Accessible! - Presentation on GDCFP Day 2020 Jakarta
+# Watch Your Talk, Make it Accessible! - Presentation on VueJS Indonesia Meetup #1
 
-How to make your talk become more accessible.
+Web Accessibility
 
 ## Notes
 **3 slides are using Indonesian** 
@@ -8,8 +8,7 @@ How to make your talk become more accessible.
 ## Installation
 
 ```bash
-$ git clone git@github.com:adriantirusli/accessible-talk-presentation.git
-```
+$ git clone https://github.com/adriantirusli/slide-web-accessibility
 
 ## Usage
 ```bash
@@ -20,5 +19,5 @@ $ yarn develop
 $ yarn build
 ```
 
-➡️ **[See a live example](https://accessible-talk-slide.netlify.com/)**
-➡️ **[Read my article](https://medium.com/@adriantirusli/not-only-your-web-pages-but-watch-your-talk-make-it-accessible-d2ec249c43b7)**
+➡️ **[See a live example](https://a11y-vue-demo.netlify.com/)**
+➡️ **[Read my article](https://adriantirusli.me/blog/a11y/)**

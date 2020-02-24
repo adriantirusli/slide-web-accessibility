@@ -8,9 +8,9 @@
 
 # Slides & Article
 * [adriantirusli.me/blog/a11y/](https://adriantirusli.me/blog/a11y/)
-* [accessible-talk-slide.netlify.com](https://accessible-talk-slide.netlify.com)
-* [GitHub Repository for Slide](https://github.com/adriantirusli/accessible-talk-presentation)
-* [GitHub Repository for Demo](https://github.com/adriantirusli/accessible-talk-presentation)
+* [Demo](https://a11y-vue-demos.netlify.com)
+* [adriantirusli/slide-web-accessibility](https://github.com/adriantirusli/slide-web-accessibility)
+* [adriantirusli/a11y-vue](https://github.com/adriantirusli/a11y-vue/)
 
 ---
 
