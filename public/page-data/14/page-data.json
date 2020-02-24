@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-slide-js","path":"/14","result":{"data":{"slide":{"html":"\n<h2>Can you use your UI component with the keyboard only?</h2>\n<p><strong>Using tabindex</strong>  </p>\n<p>tabindex=0; tabindex>0; tabindex=-1</p>\n","index":14}},"pageContext":{"index":14,"absolutePath":"/Users/adriantirusli/projects/a11y-talk-gatsby/src/slides#14"}}}
